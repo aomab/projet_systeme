@@ -1,6 +1,6 @@
 # Projet system info
 
-This repository contains the compiler, cross-assembler, and processor developed for the capstone project of "Architecture Logicielle et Matérielle des Systèmes Informatiques."
+This repository contains the compiler, cross-assembler, and processor developed for the capstone project of the "software and hardware design of computing system" course.
 
 ## Project Structure
 
